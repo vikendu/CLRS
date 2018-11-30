@@ -34,6 +34,7 @@ Solutions to *Introduction to Algorithms* by Charles E. Leiserson, Clifford Stei
 28. [zhanglanqing](https://github.com/zhanglanqing)
 29. [tushar-rishav](https://github.com/tushar-rishav)
 30. [ravgill](https://github.com/ravgill)
+31. [Mad_Kingu](https://github.com/Mad-Kingu)
 
 If I miss your name here, please pull a request to me to fix.
 
@@ -313,17 +314,13 @@ If a problem is too easy to solve, we'll mark it as **straightforward** in order
 
 # UNSOLVED
 
-[24.4.9](./C24-Single-Source-Shortest-Paths/24.4.md#exercises-244-9)
-
-[25.1.4](./C25-All-Pairs-Shortest-Paths/25.1.md#exercises-251-4)
-
 [31.1.11](./C31-Number-Theoretic-Algorithms/31.1.md#exercises-311-11)
 [31.2.7](./C31-Number-Theoretic-Algorithms/31.2.md#exercises-312-7)
 [31.2.9](./C31-Number-Theoretic-Algorithms/31.2.md#exercises-312-9)
 
 [32.2.4](./C32-String-Matching/32.2.md#exercises-322-4)
-[32.3.4](./C32-String-Matching/32.3.md#exercises-323-4)
-[32.4.6](./C32-String-Matching/32.4.md#exercises-324-6)
+[32.3.4](./C32-String-Matching/32.3.md#exercises-323-4-)
+[32.4.6](./C32-String-Matching/32.4.md#exercises-324-6-)
 
 ***
 Follow [@louis1992](https://github.com/gzc) on github to help finish this task.
